@@ -24,4 +24,5 @@ Skills Used
 
 3.Basic Sales & Customer Analytics
 
-![Dashboard Preview].(https://github.com/Prerna-Pohakar/amazon_excel_dashboard/blob/main/AMAZON%20DASHBOARD.png).
+![Dashboard Preview](https://raw.githubusercontent.com/Prerna-Pohakar/amazon_excel_dashboard/main/AMAZON%20DASHBOARD.png)
+
